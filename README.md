@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Programador%20Júnior;Experiências%20com:;Python,%20CSharp,%20HTML/CSS/JS.&font=Fira%20Code&center=true&width=455&height=45&color=f75c7e&vCenter=false&pause=300&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Programador%20Júnior;Experiências%20com:;Python,%20CSharp,%20HTML/CSS/JS,%20C.&font=Fira%20Code&center=true&width=455&height=45&color=f75c7e&vCenter=false&pause=300&size=22" /></a>
 </p>
 
 
@@ -17,14 +17,16 @@
 
 <h3 align="left">👨‍💻 Linguagens e Tools:</h3>
 <p align="left">  
+    <img align="left" width="30px" padding-right="10px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-    <img align="left" width="30px" padding-right="10px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
-    <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+    <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+    
 </p>
 <br>
 <br>
