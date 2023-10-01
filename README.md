@@ -19,7 +19,7 @@
 <p align="left">  
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-    <img align="left" width="30px" padding-right="10px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.svg" />
+    <img align="left" width="30px" padding-right="10px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
