@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://twitter.com/notprQn"><img width="50px" padding-right="10px" alt="Twitter" title="Twitter" src="https://storage.googleapis.com/replit/images/1695677448083_04a9896f890b965926ea49455992e033.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/joão-pedro-resende-silva/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"" alt="https://www.linkedin.com/in/joão-pedro-resende-silva/" height="32" width="32"/></a>
+  <a href="https://www.linkedin.com/in/joão-pedro-resende-silva/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"" alt="https://www.linkedin.com/in/joão-pedro-resende-silva/" height="32" width="32"/></a>
 </p>
 
 <h3 align="left">👨‍💻 Linguagens e Tools:</h3>
