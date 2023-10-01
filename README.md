@@ -1,10 +1,10 @@
-<h1 align="center">João Pedro Resende Silva </h1>
+<h1 align="center">Arthur Nogueira </h1>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20Júnior;Experiências%20com:;Python,%20CSharp,%20Java,%20Node.JS;Sempre%20aprendendo%20coisas%20novas.&font=Fira%20Code&center=true&width=455&height=45&color=f75c7e&vCenter=false&pause=300&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Programador%20Júnior;Experiências%20com:;Python,%20CSharp,%20HTML/CSS/JS.&font=Fira%20Code&center=true&width=455&height=45&color=f75c7e&vCenter=false&pause=300&size=22" /></a>
 </p>
 
 
