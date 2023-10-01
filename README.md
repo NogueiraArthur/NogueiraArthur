@@ -1,4 +1,4 @@
-<h1 align="center">Arthur Nogueira </h1>
+<h1 align="center">Arthur Nogueira</h1>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <p align="center">
