@@ -8,7 +8,7 @@
 </p>
 
 
-<p align="center" padding-right="10px"> Meu nome é Arthur Nogueira, tenho 19 anos e estou procurando um trabalho na área de programação. </p>
+<p align="center" padding-right="10px"> Meu nome é Arthur Nogueira, tenho 19 anos e estou procurando trabalho na área de programação. </p>
 <p align="center">
   <a href="https://replit.com/@NogueiraArthur"><img width="50px" padding-right="10px" alt="Replit" title="Replit" src="https://storage.googleapis.com/replit/images/1695677448083_04a9896f890b965926ea49455992e033.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
