@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/arthur-nogueira-98735b236/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"" alt="Linkedin" title="Linkedin" height="50" width="50"/></a>
 </p>
 
-<h3 align="left">👨‍💻 Linguagens e Tools:</h3>
+<h3 align="left">👨‍💻 Linguagens and Tools:</h3>
 <p align="left">  
     <img align="left" width="30px" padding-right="10px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -31,41 +31,8 @@
 <br>
 <br>
 <br>
-
-<details> 
-  <summary><h2>🛠️ Outros</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-  <h3>🧰 Frameworks e Libraries</h3>
-
-  <p>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-  </p>
-
-  <h3>🗄️ Databases e Cloud Hosting</h3>
-
-  <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-  </p>
-
-  <h3>💻 Software e Tools</h3>
-
-  <p>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-      <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-</details>
     
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NogueiraArthur&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NogueiraArthur&theme=dracula&hide_border=true)<br/>
