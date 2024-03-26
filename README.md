@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/arthur-nogueira-98735b236/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"" alt="Linkedin" title="Linkedin" height="50" width="50"/></a>
 </p>
 
-<h3 align="left">👨‍💻 Linguagens and Tools:</h3>
+<h3 align="left">👨‍💻 Languages and Tools:</h3>
 <p align="left">  
     <img align="left" width="30px" padding-right="10px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
