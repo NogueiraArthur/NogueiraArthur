@@ -10,7 +10,7 @@
 
 <p align="center" padding-right="10px"> Meu nome é Arthur Nogueira, tenho 20 anos e estou procurando trabalho na área de programação. </p>
 <p align="center">
-  <a href="https://replit.com/@NogueiraArthur"><img width="50px" padding-right="10px" alt="Replit" title="Replit" src="https://storage.googleapis.com/replit/images/1695677448083_04a9896f890b965926ea49455992e033.png" /></a>
+  <img width="50px" padding-right="10px" alt="Replit" title="Replit" src="https://storage.googleapis.com/replit/images/1695677448083_04a9896f890b965926ea49455992e033.png" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/arthur-nogueira-98735b236/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"" alt="Linkedin" title="Linkedin" height="50" width="50"/></a>
 </p>
